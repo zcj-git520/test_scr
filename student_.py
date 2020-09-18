@@ -1,3 +1,7 @@
+#python
+#用于github测试使用
+
+
 import fire
 import os
 import sys
