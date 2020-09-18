@@ -1,3 +1,4 @@
+"""测试github"""
 import fire
 import os
 import sys
